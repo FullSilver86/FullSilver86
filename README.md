@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FullSilver86
 - 👀 I’m interested in crypto, techology
-- 🌱 I’m currently learning python, kotlin
-- 💞️ I’m looking to collaborate on not yet ready
+- 🌱 I’m currently learning python, java
+- 💞️ I’m looking for a job to learn more
 - 📫 How to reach me przemyslaw.nowak86@gmail.com
 
 <!---
